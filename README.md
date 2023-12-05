@@ -1,3 +1,10 @@
+# Space hunt
+Frontend of 24h hackathon project for learning programming for beginners through playing a game with code.
+
+Backend : https://github.com/tismadusan567/hakaton
+
+React with bootstrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
